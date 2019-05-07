@@ -26,3 +26,7 @@
 ## TypeScript
 
 - [typescript调研体系报告，阿里体验部团队文章](https://juejin.im/post/59c46bc86fb9a00a4636f939) 
+
+## ES6
+
+- [阮一峰ES6](https://es6.ruanyifeng.com/)
